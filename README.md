@@ -1,3 +1,3 @@
 # weatherapi
 Weather api app in python
-https://www.weatherapi.com/
+for api :  https://www.weatherapi.com/
